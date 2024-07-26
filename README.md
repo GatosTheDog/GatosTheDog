@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)]()
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]()
 <h1 align="center">Hi 👋, I'm Manolis Kypriotakis</h1>
 <h3 align="center">A passionate software developer from Greece</h3>
 <img img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
