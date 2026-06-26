@@ -5,6 +5,7 @@
 
 - 🏢 Currently at **[Pet Media Group](https://petmediagroup.com)** — owning payment systems (Stripe, KYC, subscriptions) across 6 markets for a platform serving **10M+ monthly users**
 - 🤖 Deep into **AI-assisted engineering** — building MCP servers, integrating Claude Code & Cursor into daily workflows
+- 🦫 Building in **Go** — RAG pipelines, vector search, agentic systems
 - ☁️ Strong background in **AWS serverless architecture** (Lambda, DynamoDB, S3, CloudFormation, Cognito)
 - 🛠️ Stack: **TypeScript · Node.js · React · React Native · Next.js · GraphQL · PostgreSQL**
 - 🏅 **AWS Certified Developer – Associate** + **AWS Cloud Practitioner**
@@ -13,6 +14,11 @@
 <br/>
 
 ---
+
+### 🚀 Projects
+
+- **[Versous](https://github.com/GatosTheDog/versous)** — Go CLI that compares products using RAG + pgvector over real user comments from HN & YouTube. Hand-rolled embedding pipeline, Gemini LLM judging, zero infra cost.
+
 
 ### 🔧 Tech I work with
 
@@ -28,6 +34,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
