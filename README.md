@@ -17,7 +17,7 @@
 
 ### 🚀 Projects
 
-- **[Versous](https://github.com/GatosTheDog/versous)** — Go CLI that compares products using RAG + pgvector over real user comments from HN & YouTube. Hand-rolled embedding pipeline, Gemini LLM judging, zero infra cost.
+- **[Versous](https://github.com/GatosTheDog/versous)** — Go CLI + MCP server that compares products using RAG + pgvector over real user comments from HN & YouTube. Hand-rolled embedding pipeline, Gemini embeddings, Claude or Gemini as judge.
 
 
 ### 🔧 Tech I work with
