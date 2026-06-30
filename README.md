@@ -17,8 +17,7 @@
 
 ### 🚀 Projects
 
-- **[Versous](https://github.com/GatosTheDog/versous)** —Go CLI + remote MCP server comparing products via RAG over real HN & YouTube comments. Hand-rolled embedding pipeline (pgvector HNSW, Gemini embeddings), concurrent ingestion with errgroup, structured LLM verdicts.
-- Live at versous.fly.dev/mcp.
+- **[Versous](https://github.com/GatosTheDog/versous)** —Go CLI + remote MCP server comparing products via RAG over real HN & YouTube comments. Hand-rolled embedding pipeline (pgvector HNSW, Gemini embeddings), concurrent ingestion with errgroup, structured LLM verdicts.                   Live at versous.fly.dev/mcp.
 
 
 ### 🔧 Tech I work with
